@@ -1,0 +1,1 @@
+- Open 2.0_leastsquares.ipynb: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daiki-matsunaga/MathMeasurement2022/blob/main/lec02/2.0_basic.ipynb)
